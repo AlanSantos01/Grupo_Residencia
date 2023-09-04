@@ -1,1 +1,1 @@
-##Resoluções  de atividades da Residência
+#Resoluções  de atividades da Residência
