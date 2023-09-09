@@ -1,0 +1,3 @@
+
+Ola, 
+Eu, Jose Ulian Cardoso Almeida, estou sempre em busca de novos conhecimentos e desafios. Já venho trabalhando com desenvolvimento seguro de software há 1 ano, porém a residÊncia vai me proporcionar um conhecimento prático em linguagens de programação e correção de bugs, fundamentais para adquirir experiências valiosas na área de red time. Com a filosofia implementada, busco resolver problemas de dev complexas para contruibuir com a comunidade desenvolvedores em ambiente colaborativo proporcionado pela TIC18. Dessa forma, a interrelação conhecimento e aplicações práticas fortelecerá minha carreira como desenvolver DevSecCon. 
