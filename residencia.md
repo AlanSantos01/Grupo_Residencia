@@ -12,7 +12,7 @@ mundo digital e pela paixão por criar um ambiente cibernético mais seguro e pr
 É uma oportunidade emocionante de crescer como profissional de cibersegurança e fazer contribuições significativas para a 
 segurança digital global.
 =======
-# Expectativas em relação a Residência de Software:
+# Expectativas em relação a Residência de Software(Franklin Menezes Pereira):
 
 * Espero que eu possa ajustar o meu tempo de estágio com as atividaddes que a Residência exige;
 * Quero me dedicar o máximo de tempo a resolução dos exercícios propostos;
