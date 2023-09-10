@@ -1,8 +1,9 @@
 
-# Expectativas com a residência
+# Expectativas com a residência ( Lucas Silva)
 
 <p>Minhas expectativas e objetivos com a residência é reciclar meus conhecimentos, 
   aprender novas  tecnologias, participar de novos projetos e criar um networking na Região Sul da Bahia.</p>
+
 
 =======
 Olá, residencia TIC18
