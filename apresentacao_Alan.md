@@ -1,0 +1,1 @@
+Olá, me chamo Alan Carlos dos Santos Pereira, tenho 24 anos. Em toda minha carreira sempre trabalhei como analista de suporte / redes de computadores, atualmente estou buscando realizar a migração de carreira para a área de Desenvolvimento de Sistemas. Atualmente sou aluno da Residência em Software pela CEPEDI / UESC.
