@@ -21,3 +21,8 @@ segurança digital global.
 * Almejo que esse primeiro módulo seja muito proveitoso e que eu obtenha novos horizontes na programação;
 * De um modo geral espero que eu conclua o curso total e me integre ao mercado de trabalho com a visão empreendedora e busque novos projetos e parcerias.
 
+**Minhas expectativas sobre a Residência em Software (Alan Carlos)**
+
+- Aprender cada dia mais com os professores experientes que estão ministrando as aulas.
+- Adiquirir conhecimento e networking para que possa adentrar ao mercado de trabalho como Desenvolvedor.
+- Conseguir conciliar com a residência com o estudo da lingua inglesa.
