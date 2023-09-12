@@ -1,0 +1,3 @@
+# Marcelo da Silva Cruz
+
+* Graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Internacional (2019) e graduação em Teologia pela Faculdade Internacional de Teologia da Bahia (2010). Atualmente estar Coordenador IV da Universidade Estadual de Santa Cruz, atuando na área de orçamento público, banco de dados institucionais e desenvolvimento/manutenção de sistemas internos. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação. É membro colaborador da implantação do Sistema Integrado de Gestão de Atividades Acadêmicas - SIGAA. Desenvolve relatórios dinâmicos em business intelligence (Microsoft Power BI). É consultor de empresas na área de informática, banco de dados e desenvolvimento de sistemas.
